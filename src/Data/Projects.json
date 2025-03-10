@@ -1,26 +1,20 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Covid Death Rate Analysis",
+      "imageSrc": "projects/covid.png",
+      "description": "Collected data on COVID-19 deaths, separated them based on age, and gave a clear visualization of the death rate.",
+      "skills": ["Python", "Numpy", "Pandas"]
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Blood Bank Management",
+      "imageSrc": "projects/bloodbank.png",
+      "description": "Created a web-based platform for managing blood donations, focusing on data collection, processing, and visualization using SQL.",
+      "skills": [ "Html", "CSS", "Bootstrap", "XAMPP Server", "Basic Java Script"]
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    }
+      "title": "End-to-End Chatbot",
+      "imageSrc": "projects/chatbot.png",
+      "description": "Developed an advanced AI-based chatbot to enhance user interaction, showcasing debugging and development skills essential for software enhancement and maintenance.",
+      "skills": ["Python","AI Systems"]
+    }  
   ]

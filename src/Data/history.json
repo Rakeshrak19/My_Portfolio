@@ -5,25 +5,22 @@
       "startDate": "Jan, 2025",
       "endDate": "Present",
       "experiences": ["Constantly learning the Full Stack Topics and slowly implementing the projects one by one and hosting them in the LinkedIn page."],
-      "imageSrc": "https://innomatics.in/wp-content/uploads/2023/01/innomatics-footer-logo.png"
+       "imageSrc": "history/innomatics.png"
     },
     {
       "role": "Full-stack Development",
-      "organisation": " COGNIFYZ TECHNOLOGIES",
+      "organisation": " Cognifyz Technologies",
       "startDate": "Feb, 2024",
       "endDate": "Mar, 2024",
       "experiences": ["This experience honed my core functionalities and equipped me with skills like HTML, CSS, Java Script, React and MongoDb Database"],
-      "imageSrc": "history/microsoft.png"
+      "imageSrc": "history/cognifyz.png"
     },
     {
-      "role": "Web Developer Intern",
-      "organisation": "Shamgar Solutions",
-      "startDate": "Dec, 2021",
-      "endDate": "Mar, 2022",
-      "experiences": [
-        "Worked on company website",
-        "Learn to face the difficult situation and handle the pressure."
-      ],
-      "imageSrc": "history/netflix.png"
+      "role": "Python Developer Intern",
+      "organisation": "Slash MarkIT",
+      "startDate": "Apr, 2024",
+      "endDate": "May, 2024",
+      "experiences": ["I tackled a series of progressive Python development tasks within a one-month time frame, demonstrating strong problem-solving skills."],
+      "imageSrc": "history/slashmark.png"
     }
   ]
